@@ -1,0 +1,20 @@
+{
+  "name": "facebook_account_kit_demo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "dotenv": "^5.0.1",
+    "express": "3.x",
+    "guid": "0.0.12",
+    "mustache": "^2.2.1",
+    "querystring": "^0.2.0",
+    "request": "^2.69.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
